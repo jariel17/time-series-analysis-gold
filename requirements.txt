@@ -68,6 +68,7 @@ jupyter_server==2.5.0
 jupyter_server_terminals==0.4.4
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.7
+kaggle==1.7.4.5
 keyring==23.5.0
 kiwisolver==1.4.4
 launchpadlib==1.10.16
@@ -93,6 +94,7 @@ notebook==6.5.3
 notebook_shim==0.2.2
 numpy==1.24.2
 oauthlib==3.2.0
+opendatasets==0.1.22
 packaging==23.0
 pandas==2.0.1
 pandas-flavor==0.6.0
@@ -105,6 +107,7 @@ platformdirs==3.2.0
 poyo==0.5.0
 prometheus-client==0.16.0
 prompt-toolkit==3.0.38
+protobuf==6.31.1
 psutil==5.9.4
 ptyprocess==0.7.0
 pure-eval==0.2.2
